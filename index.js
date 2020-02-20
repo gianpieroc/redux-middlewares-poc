@@ -1,0 +1,2 @@
+require("./babelPreset");
+require("./runPrompt");
