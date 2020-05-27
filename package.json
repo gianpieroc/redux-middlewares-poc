@@ -11,7 +11,9 @@
   "dependencies": {
     "@babel/runtime": "^7.8.4",
     "enquirer": "^2.3.4",
-    "redux": "^4.0.5"
+    "redux": "^4.0.5",
+    "redux-saga": "^1.1.3",
+    "redux-thunk": "^2.3.0"
   },
   "devDependencies": {
     "@babel/core": "^7.8.4",
